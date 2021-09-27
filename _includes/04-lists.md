@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Favorite restaurants right now
+*La foga
+*cabo bar
+*costa pacifico
